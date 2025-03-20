@@ -132,21 +132,21 @@ Olá! Sou Victor Guilherme, 21 anos, do Rio de Janeiro, cursando o 7º período 
 
 ### 📊 Estatísticas
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+<div align="center" style="display: flex; justify-content: space-between; width: 100%; max-width: 1200px;">
 
   <!-- Gráfico 1 -->
   <img 
     alt="GitHub Stats" 
-    height="180" 
-    width="48%" 
+    height="300" 
+    width="98%" 
     src="https://github-readme-stats.vercel.app/api?username=victorguilherme-mp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
   <!-- Gráfico 2 -->
   <img 
     alt="Top Langs" 
-    height="180" 
-    width="48%" 
+    height="300" 
+    width="98%" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorguilherme-mp&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
@@ -157,6 +157,10 @@ Olá! Sou Victor Guilherme, 21 anos, do Rio de Janeiro, cursando o 7º período 
 <p align="center">
   <img src="https://profile-counter.glitch.me/victorguilherme-mp/count.svg" />
 </p>
+
+<!-- Rodapé -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
 
 <!-- Rodapé -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
