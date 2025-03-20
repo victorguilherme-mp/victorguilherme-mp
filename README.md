@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 # 👨🏽‍💻 Victor Guilherme
 
@@ -132,29 +132,35 @@ Olá! Sou Victor Guilherme, 21 anos, do Rio de Janeiro, cursando o 7º período 
 
 ### 📊 Estatísticas
 
-<p>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+
+  <!-- Gráfico 1 -->
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
+    height="180" 
+    width="48%" 
     src="https://github-readme-stats.vercel.app/api?username=victorguilherme-mp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="130" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorguilherme-mp&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <!-- Gráfico 2 -->
+  <img 
+    alt="Top Langs" 
+    height="180" 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorguilherme-mp&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+</div>
+
+<!-- Contador de visitantes -->
+<p align="center"><b>Visitors Count</b></p>  
+<p align="center">
+  <img src="https://profile-counter.glitch.me/victorguilherme-mp/count.svg" />
 </p>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{victorguilherme-mp}/count.svg" /></p> 
-<br></div>
+<!-- Rodapé -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+
 
