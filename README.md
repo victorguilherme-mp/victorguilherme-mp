@@ -132,25 +132,25 @@ Olá! Sou Victor Guilherme, 21 anos, do Rio de Janeiro, cursando o 7º período 
 
 ### 📊 Estatísticas
 
-<div align="center" style="display: flex; justify-content: space-between; width: 100%; max-width: 1200px;">
+<table>
+  <tr>
+    <td>
+      <img 
+        alt="GitHub Stats" 
+        height="190em"
+        src="https://github-readme-stats.vercel.app/api?username=victorguilherme-mp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+      />
+    </td>
+    <td>
+      <img 
+        alt="Top Langs" 
+        height="150em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorguilherme-mp&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      />
+    </td>
+  </tr>
+</table>
 
-  <!-- Gráfico 1 -->
-  <img 
-    alt="GitHub Stats" 
-    height="100" 
-    width="98%" 
-    src="https://github-readme-stats.vercel.app/api?username=victorguilherme-mp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <!-- Gráfico 2 -->
-  <img 
-    alt="Top Langs" 
-    height="100" 
-    width="98%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorguilherme-mp&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</div>
 
 <!-- Contador de visitantes -->
 <p align="center"><b>Visitors Count</b></p>  
@@ -160,6 +160,3 @@ Olá! Sou Victor Guilherme, 21 anos, do Rio de Janeiro, cursando o 7º período 
 
 <!-- Rodapé -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
-
-
