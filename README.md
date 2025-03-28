@@ -10,7 +10,7 @@ Desenvolvi habilidades de **liderança** e **gestão de projetos**, trabalhando 
 
 Minhas certificações incluem um **Python 3 (Udemy)**, **SQL Impressionador (Hashtag)**, **Power BI Impressionador (Hashtag)**,**Excel Avançado (Senai)** e **Power BI Impressionador (Hashtag)**. 
 
-## 🤖 Linguagens e Tecnologias
+## Linguagens e Tecnologias
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
     <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
@@ -28,38 +28,17 @@ Minhas certificações incluem um **Python 3 (Udemy)**, **SQL Impressionador (Ha
     <img alt="Canva" title="Canva" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"/>
 </div>
 
+## Portfólios
+
+- 🗂️ [Portfólio de Projetos](https://github.com/victorguilherme-mp/PowerBI-projects)
+- 📄 [Currículo](https://github.com/victorguilherme-mp/victorguilherme-mp/blob/main/Curriculo-Victor-Guilerme-Moreira-Pinto.pdf)
+- 🔗 [LinkedIn](https://github.com/victorguilherme-mp/victorguilherme-mp/blob/main/Profile-LinkedIn.pdf)
+
 ## 📎 Contato  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorguilherme-mp/) [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.guilherme.profissional@gmail.com)
 
-### 📊 Estatísticas
-
-<table style="border: none;">
-  <tr>
-    <td style="border: none;">
-      <img 
-        alt="GitHub Stats" 
-        height="190em"
-        src="https://github-readme-stats.vercel.app/api?username=victorguilherme-mp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-      />
-    </td>
-    <td style="border: none;">
-      <img 
-        alt="Top Langs" 
-        height="150em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorguilherme-mp&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-      />
-    </td>
-  </tr>
-</table>
-
 ## 📊 Projetos  
 🔹 **[Análise dos Dados do Estúdio de Design - RL_Lorenzi](https://app.powerbi.com/view?r=eyJrIjoiNzYwMTVkZTYtOTA5NS00NWNiLWE2NmEtZjBhZGY0ZDE4YTA3IiwidCI6ImNlYWQ1NmU3LWU5MWEtNDFkMC1iMGU3LTE4N2JiMzgwNjFiZiIsImMiOjR9)**  
-
-<!-- Contador de visitantes -->
-<p align="center"><b>Visitors Count</b></p>  
-<p align="center">
-  <img src="https://profile-counter.glitch.me/victorguilherme-mp/count.svg" />
-</p>
 
 <!-- Rodapé -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
