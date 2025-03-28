@@ -38,7 +38,7 @@ Minhas certificações incluem um **Python 3 (Udemy)**, **SQL Impressionador (Ha
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorguilherme-mp/) [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.guilherme.profissional@gmail.com)
 
 ## 📊 Projetos  
-🔹 **[Análise dos Dados do Estúdio de Design - RL_Lorenzi](https://github.com/victorguilherme-mp/PowerBI-projects)**  
+🔹 **[Análise dos Dados do Estúdio de Design - RL_Lorenzi](https://github.com/victorguilherme-mp/PowerBI-projects/tree/main/Studio-RL-Design)**  
 
 <!-- Rodapé -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
