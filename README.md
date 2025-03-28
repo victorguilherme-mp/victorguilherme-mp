@@ -2,7 +2,7 @@
 
 # Olá! Bem-vindo(a) ao meu repositório!👨🏽‍💻
 
-**`Analista de Dados`**
+**`Victor Guilherme - Analista de Dados`**
 
 Analista de Dados em formação, no 7° período de Engenharia da Computação na Universidade Veiga de Almeida, transformo dados brutos em insights estratégicos que impulsionam decisões inteligentes e eficientes. Possuo domínio avançado em ferramentas como **Python**, **SQL**, **Power BI**, **Excel** e **Power Point**, aplicando essas habilidades para realizar análises detalhadas, criar dashboards intuitivos e automatizar processos. Minhas principais competências incluem **análise de dados**, **pensamento crítico e analítico**, ****visualização de dados** e **modelagem estatística**.
 
