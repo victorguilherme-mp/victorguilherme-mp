@@ -10,7 +10,7 @@ Desenvolvi habilidades de **liderança** e **gestão de projetos**, trabalhando 
 
 Minhas certificações incluem um **Python 3 (Udemy)**, **SQL Impressionador (Hashtag)**, **Power BI Impressionador (Hashtag)**,**Excel Avançado (Senai)** e **Power BI Impressionador (Hashtag)**. 
 
-## Linguagens e Tecnologias
+## Linguagens e Ferramentas
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
     <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
